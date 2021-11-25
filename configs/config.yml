@@ -2,8 +2,8 @@ port: "8000"
 
 db:
     username: "postgres"
-    password: "newpass"
+    password: "id1234567890"
     host: "localhost"
-    port: "5436"
+    port: "5432"
     dbname: "postgres"
     sslmode: "disable"
